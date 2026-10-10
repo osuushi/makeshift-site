@@ -1,0 +1,187 @@
+{
+  "source": "09081980164957a2ca26d7995499cb886bff32a7",
+  "sourceDirty": false,
+  "backend": "native development backend",
+  "method": "30 fps fixed-step browser clock; preserves animation timing, not a live performance measurement",
+  "viewport": {
+    "width": 960,
+    "height": 640
+  },
+  "clips": [
+    {
+      "id": "primitives",
+      "title": "Primitives",
+      "description": "Start with a solid shape and adjust its size.",
+      "frames": 324,
+      "fps": 30,
+      "renderSeconds": 9.925,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 960,
+          "height": 640,
+          "avg_frame_rate": "30/1",
+          "nb_frames": "324",
+          "side_data_list": [
+            {}
+          ]
+        }
+      ],
+      "format": {
+        "duration": "10.800000",
+        "size": "566364"
+      }
+    },
+    {
+      "id": "sketching",
+      "title": "Sketching",
+      "description": "Draw a profile, bow an edge into an arc, and round a corner.",
+      "frames": 713,
+      "fps": 30,
+      "renderSeconds": 23.46,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 960,
+          "height": 640,
+          "avg_frame_rate": "30/1",
+          "nb_frames": "713",
+          "side_data_list": [
+            {}
+          ]
+        }
+      ],
+      "format": {
+        "duration": "23.766667",
+        "size": "583454"
+      }
+    },
+    {
+      "id": "extrude",
+      "title": "Extrude",
+      "description": "Give a flat profile some depth.",
+      "frames": 379,
+      "fps": 30,
+      "renderSeconds": 40.771,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 960,
+          "height": 640,
+          "avg_frame_rate": "30/1",
+          "nb_frames": "379",
+          "side_data_list": [
+            {}
+          ]
+        }
+      ],
+      "format": {
+        "duration": "12.633333",
+        "size": "406212"
+      }
+    },
+    {
+      "id": "revolve",
+      "title": "Revolve",
+      "description": "Turn a profile around an axis.",
+      "frames": 385,
+      "fps": 30,
+      "renderSeconds": 9.683,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 960,
+          "height": 640,
+          "avg_frame_rate": "30/1",
+          "nb_frames": "385",
+          "side_data_list": [
+            {}
+          ]
+        }
+      ],
+      "format": {
+        "duration": "12.833333",
+        "size": "650010"
+      }
+    },
+    {
+      "id": "edge-finishes",
+      "title": "Fillet & chamfer",
+      "description": "Round an edge or give it a bevel.",
+      "frames": 535,
+      "fps": 30,
+      "renderSeconds": 14.48,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 960,
+          "height": 640,
+          "avg_frame_rate": "30/1",
+          "nb_frames": "535",
+          "side_data_list": [
+            {}
+          ]
+        }
+      ],
+      "format": {
+        "duration": "17.833333",
+        "size": "836843"
+      }
+    },
+    {
+      "id": "threads",
+      "title": "Threads",
+      "description": "Add screw threads to a cylindrical face.",
+      "frames": 208,
+      "fps": 30,
+      "renderSeconds": 7.261,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 960,
+          "height": 640,
+          "avg_frame_rate": "30/1",
+          "nb_frames": "208",
+          "side_data_list": [
+            {}
+          ]
+        }
+      ],
+      "format": {
+        "duration": "6.933333",
+        "size": "202817"
+      }
+    },
+    {
+      "id": "knurling",
+      "title": "Knurling",
+      "description": "Add an adjustable grip pattern.",
+      "frames": 208,
+      "fps": 30,
+      "renderSeconds": 6.617,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 960,
+          "height": 640,
+          "avg_frame_rate": "30/1",
+          "nb_frames": "208",
+          "side_data_list": [
+            {}
+          ]
+        }
+      ],
+      "format": {
+        "duration": "6.933333",
+        "size": "208509"
+      }
+    }
+  ]
+}
