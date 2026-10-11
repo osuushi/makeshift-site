@@ -1,7 +1,7 @@
 {
-  "source": "09081980164957a2ca26d7995499cb886bff32a7",
+  "source": "3c442d19ad6516a4ce52559b4f39993384a3d4d2",
   "sourceDirty": false,
-  "backend": "native development backend",
+  "backend": "release WASM",
   "method": "30 fps fixed-step browser clock; preserves animation timing, not a live performance measurement",
   "viewport": {
     "width": 960,
@@ -11,176 +11,148 @@
     {
       "id": "primitives",
       "title": "Primitives",
-      "description": "Start with a solid shape and adjust its size.",
-      "frames": 324,
+      "description": "Place and resize a cube, cylinder, sphere and cone.",
+      "frames": 464,
       "fps": 30,
-      "renderSeconds": 9.925,
+      "renderSeconds": 48.641,
       "programs": [],
-      "stream_groups": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "324",
-          "side_data_list": [
-            {}
-          ]
+          "nb_frames": "464"
         }
       ],
       "format": {
-        "duration": "10.800000",
-        "size": "566364"
+        "duration": "15.466667",
+        "size": "532316"
       }
     },
     {
       "id": "sketching",
       "title": "Sketching",
       "description": "Draw a profile, bow an edge into an arc, and round a corner.",
-      "frames": 713,
+      "frames": 380,
       "fps": 30,
-      "renderSeconds": 23.46,
+      "renderSeconds": 42.599,
       "programs": [],
-      "stream_groups": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "713",
-          "side_data_list": [
-            {}
-          ]
+          "nb_frames": "380"
         }
       ],
       "format": {
-        "duration": "23.766667",
-        "size": "583454"
+        "duration": "12.666667",
+        "size": "409878"
       }
     },
     {
       "id": "extrude",
       "title": "Extrude",
-      "description": "Give a flat profile some depth.",
-      "frames": 379,
+      "description": "Give the sketch from the previous demo depth, preserving its hole.",
+      "frames": 207,
       "fps": 30,
-      "renderSeconds": 40.771,
+      "renderSeconds": 35.926,
       "programs": [],
-      "stream_groups": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "379",
-          "side_data_list": [
-            {}
-          ]
+          "nb_frames": "207"
         }
       ],
       "format": {
-        "duration": "12.633333",
-        "size": "406212"
+        "duration": "6.900000",
+        "size": "248678"
       }
     },
     {
       "id": "revolve",
       "title": "Revolve",
-      "description": "Turn a profile around an axis.",
-      "frames": 385,
+      "description": "Sketch a rectangle, choose an axis and explore its revolution.",
+      "frames": 380,
       "fps": 30,
-      "renderSeconds": 9.683,
+      "renderSeconds": 33.186,
       "programs": [],
-      "stream_groups": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "385",
-          "side_data_list": [
-            {}
-          ]
+          "nb_frames": "380"
         }
       ],
       "format": {
-        "duration": "12.833333",
-        "size": "650010"
+        "duration": "12.666667",
+        "size": "890583"
       }
     },
     {
       "id": "edge-finishes",
       "title": "Fillet & chamfer",
-      "description": "Round an edge or give it a bevel.",
-      "frames": 535,
+      "description": "Round the front corner, then bevel the entire top face.",
+      "frames": 324,
       "fps": 30,
-      "renderSeconds": 14.48,
+      "renderSeconds": 30.512,
       "programs": [],
-      "stream_groups": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "535",
-          "side_data_list": [
-            {}
-          ]
+          "nb_frames": "324"
         }
       ],
       "format": {
-        "duration": "17.833333",
-        "size": "836843"
+        "duration": "10.800000",
+        "size": "513098"
       }
     },
     {
       "id": "threads",
       "title": "Threads",
-      "description": "Add screw threads to a cylindrical face.",
-      "frames": 208,
+      "description": "Thread a cylinder and a matching drilled hole.",
+      "frames": 399,
       "fps": 30,
-      "renderSeconds": 7.261,
+      "renderSeconds": 50.938,
       "programs": [],
-      "stream_groups": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "208",
-          "side_data_list": [
-            {}
-          ]
+          "nb_frames": "399"
         }
       ],
       "format": {
-        "duration": "6.933333",
-        "size": "202817"
+        "duration": "13.300000",
+        "size": "686414"
       }
     },
     {
       "id": "knurling",
       "title": "Knurling",
-      "description": "Add an adjustable grip pattern.",
-      "frames": 208,
+      "description": "Compare grip patterns on a larger cylinder.",
+      "frames": 145,
       "fps": 30,
-      "renderSeconds": 6.617,
+      "renderSeconds": 17.519,
       "programs": [],
-      "stream_groups": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "208",
-          "side_data_list": [
-            {}
-          ]
+          "nb_frames": "145"
         }
       ],
       "format": {
-        "duration": "6.933333",
-        "size": "208509"
+        "duration": "4.833333",
+        "size": "180037"
       }
     }
   ]
