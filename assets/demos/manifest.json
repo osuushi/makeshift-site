@@ -1,5 +1,5 @@
 {
-  "source": "7c51c29bcd6c77ddb1e39239fe396ac628e10f58",
+  "source": "e5d8f93069fa66ec8a0983a67a48fc2601a484db",
   "sourceDirty": false,
   "backend": "release WASM",
   "method": "30 fps fixed-step browser clock; preserves animation timing, not a live performance measurement",
@@ -12,21 +12,21 @@
       "id": "primitives",
       "title": "Primitives",
       "description": "Place and resize a cube, cylinder, sphere and cone.",
-      "frames": 462,
+      "frames": 457,
       "fps": 30,
-      "renderSeconds": 68.228,
+      "renderSeconds": 68.462,
       "programs": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "462"
+          "nb_frames": "457"
         }
       ],
       "format": {
-        "duration": "15.400000",
-        "size": "528483"
+        "duration": "15.233333",
+        "size": "529336"
       }
     },
     {
@@ -35,7 +35,7 @@
       "description": "Draw a profile, bow an edge into an arc, and round a corner.",
       "frames": 380,
       "fps": 30,
-      "renderSeconds": 210.71,
+      "renderSeconds": 211.589,
       "programs": [],
       "streams": [
         {
@@ -47,7 +47,7 @@
       ],
       "format": {
         "duration": "12.666667",
-        "size": "407585"
+        "size": "407723"
       }
     },
     {
@@ -56,7 +56,7 @@
       "description": "Give the sketch from the previous demo depth, preserving its hole.",
       "frames": 204,
       "fps": 30,
-      "renderSeconds": 100.945,
+      "renderSeconds": 150.57,
       "programs": [],
       "streams": [
         {
@@ -68,70 +68,70 @@
       ],
       "format": {
         "duration": "6.800000",
-        "size": "243594"
+        "size": "286744"
       }
     },
     {
       "id": "revolve",
       "title": "Revolve",
       "description": "Sketch a rectangle, choose an axis and explore its revolution.",
-      "frames": 375,
+      "frames": 372,
       "fps": 30,
-      "renderSeconds": 75.482,
+      "renderSeconds": 74.939,
       "programs": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "375"
+          "nb_frames": "372"
         }
       ],
       "format": {
-        "duration": "12.500000",
-        "size": "870551"
+        "duration": "12.400000",
+        "size": "861404"
       }
     },
     {
       "id": "edge-finishes",
       "title": "Fillet & chamfer",
       "description": "Round the front corner, then bevel the entire top face.",
-      "frames": 321,
+      "frames": 315,
       "fps": 30,
-      "renderSeconds": 32.899,
+      "renderSeconds": 32.658,
       "programs": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "321"
+          "nb_frames": "315"
         }
       ],
       "format": {
-        "duration": "10.700000",
-        "size": "501016"
+        "duration": "10.500000",
+        "size": "487303"
       }
     },
     {
       "id": "threads",
       "title": "Threads",
       "description": "Thread a cylinder and a matching drilled hole.",
-      "frames": 395,
+      "frames": 391,
       "fps": 30,
-      "renderSeconds": 61.535,
+      "renderSeconds": 61.204,
       "programs": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "395"
+          "nb_frames": "391"
         }
       ],
       "format": {
-        "duration": "13.166667",
-        "size": "667885"
+        "duration": "13.033333",
+        "size": "635370"
       }
     },
     {
@@ -140,7 +140,7 @@
       "description": "Compare grip patterns on a larger cylinder.",
       "frames": 145,
       "fps": 30,
-      "renderSeconds": 17.502,
+      "renderSeconds": 17.599,
       "programs": [],
       "streams": [
         {
@@ -152,7 +152,7 @@
       ],
       "format": {
         "duration": "4.833333",
-        "size": "179741"
+        "size": "180254"
       }
     }
   ]
