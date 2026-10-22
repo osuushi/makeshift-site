@@ -1,5 +1,5 @@
 {
-  "source": "80d40c5374f53b08ede75ff52cc66ff62987478c",
+  "source": "28895519649b51de49fb2fa0561ff02a86e1d225",
   "sourceDirty": false,
   "backend": "release WASM",
   "method": "30 fps fixed-step browser clock; preserves animation timing, not a live performance measurement",
@@ -12,42 +12,42 @@
       "id": "primitives",
       "title": "Primitives",
       "description": "Place and resize a cube, cylinder, sphere and cone.",
-      "frames": 457,
+      "frames": 493,
       "fps": 30,
-      "renderSeconds": 57.213,
+      "renderSeconds": 55.099,
       "programs": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "457"
+          "nb_frames": "493"
         }
       ],
       "format": {
-        "duration": "15.233333",
-        "size": "526146"
+        "duration": "16.433333",
+        "size": "830840"
       }
     },
     {
       "id": "sketching",
       "title": "Sketching",
       "description": "Draw a profile, bow an edge into an arc, and round a corner.",
-      "frames": 379,
+      "frames": 431,
       "fps": 30,
-      "renderSeconds": 25.715,
+      "renderSeconds": 28.37,
       "programs": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "379"
+          "nb_frames": "431"
         }
       ],
       "format": {
-        "duration": "12.633333",
-        "size": "457912"
+        "duration": "14.366667",
+        "size": "570499"
       }
     },
     {
@@ -56,7 +56,7 @@
       "description": "Give the sketch from the previous demo depth, preserving its hole.",
       "frames": 204,
       "fps": 30,
-      "renderSeconds": 99.618,
+      "renderSeconds": 91.38,
       "programs": [],
       "streams": [
         {
@@ -68,28 +68,28 @@
       ],
       "format": {
         "duration": "6.800000",
-        "size": "286237"
+        "size": "283092"
       }
     },
     {
       "id": "revolve",
       "title": "Revolve",
       "description": "Sketch a rectangle, choose an axis and explore its revolution.",
-      "frames": 370,
+      "frames": 382,
       "fps": 30,
-      "renderSeconds": 35.253,
+      "renderSeconds": 33.986,
       "programs": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "370"
+          "nb_frames": "382"
         }
       ],
       "format": {
-        "duration": "12.333333",
-        "size": "889044"
+        "duration": "12.733333",
+        "size": "916943"
       }
     },
     {
@@ -98,7 +98,7 @@
       "description": "Round the front corner, then bevel the entire top face.",
       "frames": 315,
       "fps": 30,
-      "renderSeconds": 31.014,
+      "renderSeconds": 30.918,
       "programs": [],
       "streams": [
         {
@@ -110,28 +110,28 @@
       ],
       "format": {
         "duration": "10.500000",
-        "size": "484493"
+        "size": "478835"
       }
     },
     {
       "id": "threads",
       "title": "Threads",
       "description": "Thread a cylinder and a matching drilled hole.",
-      "frames": 391,
+      "frames": 427,
       "fps": 30,
-      "renderSeconds": 56.178,
+      "renderSeconds": 53.426,
       "programs": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "391"
+          "nb_frames": "427"
         }
       ],
       "format": {
-        "duration": "13.033333",
-        "size": "631868"
+        "duration": "14.233333",
+        "size": "950381"
       }
     },
     {
@@ -140,7 +140,7 @@
       "description": "Compare grip patterns on a larger cylinder.",
       "frames": 145,
       "fps": 30,
-      "renderSeconds": 17.876,
+      "renderSeconds": 17.085,
       "programs": [],
       "streams": [
         {
@@ -152,7 +152,7 @@
       ],
       "format": {
         "duration": "4.833333",
-        "size": "180440"
+        "size": "179412"
       }
     }
   ]
