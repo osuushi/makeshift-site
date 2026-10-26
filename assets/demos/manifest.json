@@ -1,5 +1,5 @@
 {
-  "source": "6f7c0e48d48f3171bf6d552926e04537fc44ea5f",
+  "source": "5d3f8989d0503011f0f39f96e16c5cfd091fd87d",
   "sourceDirty": false,
   "backend": "release WASM",
   "method": "30 fps fixed-step browser clock; preserves animation timing, not a live performance measurement",
@@ -12,21 +12,21 @@
       "id": "primitives",
       "title": "Primitives",
       "description": "Place and resize a cube, cylinder, sphere and cone.",
-      "frames": 492,
+      "frames": 495,
       "fps": 30,
-      "renderSeconds": 73.103,
+      "renderSeconds": 56.732,
       "programs": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "492"
+          "nb_frames": "495"
         }
       ],
       "format": {
-        "duration": "16.400000",
-        "size": "982066"
+        "duration": "16.500000",
+        "size": "981343"
       }
     },
     {
@@ -35,7 +35,7 @@
       "description": "Draw a profile, bow an edge into an arc, and round a corner.",
       "frames": 432,
       "fps": 30,
-      "renderSeconds": 31.839,
+      "renderSeconds": 29.952,
       "programs": [],
       "streams": [
         {
@@ -47,7 +47,7 @@
       ],
       "format": {
         "duration": "14.400000",
-        "size": "768041"
+        "size": "766606"
       }
     },
     {
@@ -56,7 +56,7 @@
       "description": "Give the sketch from the previous demo depth, preserving its hole.",
       "frames": 204,
       "fps": 30,
-      "renderSeconds": 87.117,
+      "renderSeconds": 56.178,
       "programs": [],
       "streams": [
         {
@@ -68,91 +68,91 @@
       ],
       "format": {
         "duration": "6.800000",
-        "size": "315739"
+        "size": "310583"
       }
     },
     {
       "id": "revolve",
       "title": "Revolve",
       "description": "Sketch a rectangle, choose an axis and explore its revolution.",
-      "frames": 381,
+      "frames": 384,
       "fps": 30,
-      "renderSeconds": 38.466,
+      "renderSeconds": 29.406,
       "programs": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "381"
+          "nb_frames": "384"
         }
       ],
       "format": {
-        "duration": "12.700000",
-        "size": "1141248"
+        "duration": "12.800000",
+        "size": "1066934"
       }
     },
     {
       "id": "edge-finishes",
       "title": "Fillet & chamfer",
       "description": "Round the front corner, then bevel the entire top face.",
-      "frames": 300,
+      "frames": 304,
       "fps": 30,
-      "renderSeconds": 33.249,
+      "renderSeconds": 24.389,
       "programs": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "300"
+          "nb_frames": "304"
         }
       ],
       "format": {
-        "duration": "10.000000",
-        "size": "510090"
+        "duration": "10.133333",
+        "size": "515722"
       }
     },
     {
       "id": "threads",
       "title": "Threads",
       "description": "Thread a cylinder and a matching drilled hole.",
-      "frames": 427,
+      "frames": 431,
       "fps": 30,
-      "renderSeconds": 61.872,
+      "renderSeconds": 43.506,
       "programs": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "427"
+          "nb_frames": "431"
         }
       ],
       "format": {
-        "duration": "14.233333",
-        "size": "1339966"
+        "duration": "14.366667",
+        "size": "1344252"
       }
     },
     {
       "id": "knurling",
       "title": "Knurling",
       "description": "Compare grip patterns on a larger cylinder.",
-      "frames": 147,
+      "frames": 148,
       "fps": 30,
-      "renderSeconds": 17.564,
+      "renderSeconds": 13.016,
       "programs": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "147"
+          "nb_frames": "148"
         }
       ],
       "format": {
-        "duration": "4.900000",
-        "size": "235198"
+        "duration": "4.933333",
+        "size": "230934"
       }
     }
   ]
