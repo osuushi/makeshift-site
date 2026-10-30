@@ -1,5 +1,5 @@
 {
-  "source": "4d4065ecb8e88dfca734827e4b2f199a558b59ce",
+  "source": "81ccc82aa50f1c9fb370f01921d996324937b2a0",
   "sourceDirty": false,
   "backend": "release WASM",
   "method": "30 fps fixed-step browser clock; preserves animation timing, not a live performance measurement",
@@ -12,42 +12,42 @@
       "id": "primitives",
       "title": "Primitives",
       "description": "Place and resize a cube, cylinder, sphere and cone.",
-      "frames": 497,
+      "frames": 496,
       "fps": 30,
-      "renderSeconds": 50.635,
+      "renderSeconds": 51.513,
       "programs": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "497"
+          "nb_frames": "496"
         }
       ],
       "format": {
-        "duration": "16.566667",
-        "size": "575833"
+        "duration": "16.533333",
+        "size": "576251"
       }
     },
     {
       "id": "sketching",
       "title": "Sketching",
       "description": "Draw a profile, bow an edge into an arc, and round a corner.",
-      "frames": 432,
+      "frames": 434,
       "fps": 30,
-      "renderSeconds": 27.667,
+      "renderSeconds": 28.292,
       "programs": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "432"
+          "nb_frames": "434"
         }
       ],
       "format": {
-        "duration": "14.400000",
-        "size": "551035"
+        "duration": "14.466667",
+        "size": "552435"
       }
     },
     {
@@ -56,7 +56,7 @@
       "description": "Give the sketch from the previous demo depth, preserving its hole.",
       "frames": 204,
       "fps": 30,
-      "renderSeconds": 32.654,
+      "renderSeconds": 34.344,
       "programs": [],
       "streams": [
         {
@@ -68,91 +68,91 @@
       ],
       "format": {
         "duration": "6.800000",
-        "size": "317896"
+        "size": "321221"
       }
     },
     {
       "id": "revolve",
       "title": "Revolve",
       "description": "Sketch a rectangle, choose an axis and explore its revolution.",
-      "frames": 385,
+      "frames": 384,
       "fps": 30,
-      "renderSeconds": 27.963,
+      "renderSeconds": 28.848,
       "programs": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "385"
+          "nb_frames": "384"
         }
       ],
       "format": {
-        "duration": "12.833333",
-        "size": "1004440"
+        "duration": "12.800000",
+        "size": "1005517"
       }
     },
     {
       "id": "edge-finishes",
       "title": "Fillet & chamfer",
       "description": "Round the front corner, then bevel the entire top face.",
-      "frames": 305,
+      "frames": 303,
       "fps": 30,
-      "renderSeconds": 23.497,
+      "renderSeconds": 24.037,
       "programs": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "305"
+          "nb_frames": "303"
         }
       ],
       "format": {
-        "duration": "10.166667",
-        "size": "501474"
+        "duration": "10.100000",
+        "size": "501898"
       }
     },
     {
       "id": "threads",
       "title": "Threads",
       "description": "Thread a cylinder and a matching drilled hole.",
-      "frames": 498,
+      "frames": 497,
       "fps": 30,
-      "renderSeconds": 46.405,
+      "renderSeconds": 46.585,
       "programs": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "498"
+          "nb_frames": "497"
         }
       ],
       "format": {
-        "duration": "16.600000",
-        "size": "646205"
+        "duration": "16.566667",
+        "size": "645584"
       }
     },
     {
       "id": "knurling",
       "title": "Knurling",
       "description": "Compare grip patterns on a larger cylinder.",
-      "frames": 159,
+      "frames": 158,
       "fps": 30,
-      "renderSeconds": 12.825,
+      "renderSeconds": 12.994,
       "programs": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "159"
+          "nb_frames": "158"
         }
       ],
       "format": {
-        "duration": "5.300000",
-        "size": "160425"
+        "duration": "5.266667",
+        "size": "162818"
       }
     }
   ]
