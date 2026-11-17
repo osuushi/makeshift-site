@@ -1,5 +1,5 @@
 {
-  "source": "586f69c5a1ca826db7e46e43e130783011982d65",
+  "source": "58558358b14f74678951aaea32ad3e311947bdca",
   "sourceDirty": false,
   "backend": "release WASM",
   "method": "30 fps fixed-step browser clock; preserves animation timing, not a live performance measurement",
@@ -12,21 +12,21 @@
       "id": "primitives",
       "title": "Primitives",
       "description": "Place and resize a cube, cylinder, sphere and cone.",
-      "frames": 498,
+      "frames": 496,
       "fps": 30,
-      "renderSeconds": 51.614,
+      "renderSeconds": 48.973,
       "programs": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "498"
+          "nb_frames": "496"
         }
       ],
       "format": {
-        "duration": "16.600000",
-        "size": "577515"
+        "duration": "16.533333",
+        "size": "578168"
       }
     },
     {
@@ -35,7 +35,7 @@
       "description": "Draw a profile, bow an edge into an arc, and round a corner.",
       "frames": 433,
       "fps": 30,
-      "renderSeconds": 28.251,
+      "renderSeconds": 28.18,
       "programs": [],
       "streams": [
         {
@@ -47,7 +47,7 @@
       ],
       "format": {
         "duration": "14.433333",
-        "size": "592403"
+        "size": "597572"
       }
     },
     {
@@ -56,7 +56,7 @@
       "description": "Give the sketch from the previous demo depth, preserving its hole.",
       "frames": 204,
       "fps": 30,
-      "renderSeconds": 36.374,
+      "renderSeconds": 31.786,
       "programs": [],
       "streams": [
         {
@@ -68,28 +68,28 @@
       ],
       "format": {
         "duration": "6.800000",
-        "size": "343485"
+        "size": "343656"
       }
     },
     {
       "id": "revolve",
       "title": "Revolve",
       "description": "Sketch a rectangle, choose an axis and explore its revolution.",
-      "frames": 385,
+      "frames": 383,
       "fps": 30,
-      "renderSeconds": 28.701,
+      "renderSeconds": 27.902,
       "programs": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "385"
+          "nb_frames": "383"
         }
       ],
       "format": {
-        "duration": "12.833333",
-        "size": "1058826"
+        "duration": "12.766667",
+        "size": "1027009"
       }
     },
     {
@@ -98,7 +98,7 @@
       "description": "Round the front corner, then bevel the entire top face.",
       "frames": 305,
       "fps": 30,
-      "renderSeconds": 22.559,
+      "renderSeconds": 22.351,
       "programs": [],
       "streams": [
         {
@@ -110,28 +110,28 @@
       ],
       "format": {
         "duration": "10.166667",
-        "size": "506041"
+        "size": "504655"
       }
     },
     {
       "id": "threads",
       "title": "Threads",
       "description": "Thread a cylinder and a matching drilled hole.",
-      "frames": 499,
+      "frames": 498,
       "fps": 30,
-      "renderSeconds": 61.768,
+      "renderSeconds": 56.522,
       "programs": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "499"
+          "nb_frames": "498"
         }
       ],
       "format": {
-        "duration": "16.633333",
-        "size": "662768"
+        "duration": "16.600000",
+        "size": "663742"
       }
     },
     {
@@ -140,7 +140,7 @@
       "description": "Compare grip patterns on a larger cylinder.",
       "frames": 159,
       "fps": 30,
-      "renderSeconds": 49.831,
+      "renderSeconds": 46.35,
       "programs": [],
       "streams": [
         {
@@ -152,7 +152,7 @@
       ],
       "format": {
         "duration": "5.300000",
-        "size": "178472"
+        "size": "179975"
       }
     }
   ]
