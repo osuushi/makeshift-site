@@ -1,5 +1,5 @@
 {
-  "source": "58558358b14f74678951aaea32ad3e311947bdca",
+  "source": "41f8af1226d76d1294dfd9f2536c00752ef7d597",
   "sourceDirty": false,
   "backend": "release WASM",
   "method": "30 fps fixed-step browser clock; preserves animation timing, not a live performance measurement",
@@ -12,21 +12,21 @@
       "id": "primitives",
       "title": "Primitives",
       "description": "Place and resize a cube, cylinder, sphere and cone.",
-      "frames": 496,
+      "frames": 497,
       "fps": 30,
-      "renderSeconds": 48.973,
+      "renderSeconds": 35.516,
       "programs": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "496"
+          "nb_frames": "497"
         }
       ],
       "format": {
-        "duration": "16.533333",
-        "size": "578168"
+        "duration": "16.566667",
+        "size": "540125"
       }
     },
     {
@@ -35,7 +35,7 @@
       "description": "Draw a profile, bow an edge into an arc, and round a corner.",
       "frames": 433,
       "fps": 30,
-      "renderSeconds": 28.18,
+      "renderSeconds": 22.299,
       "programs": [],
       "streams": [
         {
@@ -47,7 +47,7 @@
       ],
       "format": {
         "duration": "14.433333",
-        "size": "597572"
+        "size": "506925"
       }
     },
     {
@@ -56,7 +56,7 @@
       "description": "Give the sketch from the previous demo depth, preserving its hole.",
       "frames": 204,
       "fps": 30,
-      "renderSeconds": 31.786,
+      "renderSeconds": 26.909,
       "programs": [],
       "streams": [
         {
@@ -68,49 +68,49 @@
       ],
       "format": {
         "duration": "6.800000",
-        "size": "343656"
+        "size": "276418"
       }
     },
     {
       "id": "revolve",
       "title": "Revolve",
       "description": "Sketch a rectangle, choose an axis and explore its revolution.",
-      "frames": 383,
+      "frames": 385,
       "fps": 30,
-      "renderSeconds": 27.902,
+      "renderSeconds": 22.631,
       "programs": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "383"
+          "nb_frames": "385"
         }
       ],
       "format": {
-        "duration": "12.766667",
-        "size": "1027009"
+        "duration": "12.833333",
+        "size": "836634"
       }
     },
     {
       "id": "edge-finishes",
       "title": "Fillet & chamfer",
       "description": "Round the front corner, then bevel the entire top face.",
-      "frames": 305,
+      "frames": 307,
       "fps": 30,
-      "renderSeconds": 22.351,
+      "renderSeconds": 18.145,
       "programs": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "305"
+          "nb_frames": "307"
         }
       ],
       "format": {
-        "duration": "10.166667",
-        "size": "504655"
+        "duration": "10.233333",
+        "size": "421237"
       }
     },
     {
@@ -119,7 +119,7 @@
       "description": "Thread a cylinder and a matching drilled hole.",
       "frames": 498,
       "fps": 30,
-      "renderSeconds": 56.522,
+      "renderSeconds": 43.58,
       "programs": [],
       "streams": [
         {
@@ -131,28 +131,28 @@
       ],
       "format": {
         "duration": "16.600000",
-        "size": "663742"
+        "size": "585068"
       }
     },
     {
       "id": "knurling",
       "title": "Knurling",
       "description": "Compare grip patterns on a larger cylinder.",
-      "frames": 159,
+      "frames": 163,
       "fps": 30,
-      "renderSeconds": 46.35,
+      "renderSeconds": 44.233,
       "programs": [],
       "streams": [
         {
           "width": 960,
           "height": 640,
           "avg_frame_rate": "30/1",
-          "nb_frames": "159"
+          "nb_frames": "163"
         }
       ],
       "format": {
-        "duration": "5.300000",
-        "size": "179975"
+        "duration": "5.433333",
+        "size": "177823"
       }
     }
   ]
